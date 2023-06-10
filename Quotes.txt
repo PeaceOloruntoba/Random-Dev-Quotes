@@ -7,3 +7,4 @@
 
 ```Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.```
 
+```The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.```
