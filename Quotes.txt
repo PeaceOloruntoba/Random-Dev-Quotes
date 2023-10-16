@@ -16,3 +16,5 @@
 ```It was a turning point in my programming career when I realized that I didn't have to win every argument.```
 
 ```Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.```
+
+```Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.```
