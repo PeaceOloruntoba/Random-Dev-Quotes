@@ -18,6 +18,8 @@
 
 ```Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.```
 
+```Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.```
+
 ```I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.```
 
 ```Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.```
