@@ -22,3 +22,5 @@
 ```Machines as simple as thermostats can be said to have beliefs.```
 
 ```A language that doesn’t have everything is actually easier to program in than some that do.```
+
+```Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.```
