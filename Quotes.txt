@@ -20,3 +20,5 @@
 ```Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.```
 
 ```Machines as simple as thermostats can be said to have beliefs.```
+
+```A language that doesn’t have everything is actually easier to program in than some that do.```
