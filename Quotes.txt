@@ -28,3 +28,5 @@
 ```Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.```
 
 ```The best way to predict the future is to invent it.```
+
+```Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.```
