@@ -79,3 +79,5 @@
 ```Just because you've implemented something doesn't mean you understand it```
 
 ```Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.```
+
+``````
