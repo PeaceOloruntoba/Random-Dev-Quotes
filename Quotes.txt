@@ -38,3 +38,5 @@
 ```Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.```
 
 ```Programming can be addictive```
+
+```For most software, Efficiency just don't matter```
