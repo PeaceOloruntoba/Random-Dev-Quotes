@@ -44,3 +44,5 @@
 ```When in doubt, just leave it out```
 
 ```When you stop learning, you start dying```
+
+```JavaScript is the world's most ununderstood language```
