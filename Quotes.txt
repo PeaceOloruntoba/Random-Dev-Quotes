@@ -30,6 +30,8 @@
 
 ```Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.```
 
+```A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.```
+
 ```The best way to predict the future is to invent it.```
 
 ```Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.```
