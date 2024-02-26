@@ -57,3 +57,5 @@
 ```There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.```
 
 ```Life is too short to run proprietary software.```
+
+```Good people with a good process will outperform good people with no process every time.```
