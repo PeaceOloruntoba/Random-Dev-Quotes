@@ -4,6 +4,8 @@
 
 ```It was a turning point in my programming career when I realized that I didn't have to win every argument.```
 
+```Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.```
+
 ```If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.```
 
 ```Success is a lousy teacher. It seduces smart people into thinking they can't lose.```
