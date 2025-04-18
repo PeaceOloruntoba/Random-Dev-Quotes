@@ -93,3 +93,5 @@
 ```There is never enough time to do it right, but there is always enough time to fix it or to do it over.```
 
 ```Good judgement comes from experience. Experience comes from bad judgement.```
+
+```The real problem with throwaway code comes when it isn't thrown away.```
