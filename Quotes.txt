@@ -95,3 +95,5 @@
 ```Good judgement comes from experience. Experience comes from bad judgement.```
 
 ```The real problem with throwaway code comes when it isn't thrown away.```
+
+```I think you should always bear in mind that entropy is not on your side.```
