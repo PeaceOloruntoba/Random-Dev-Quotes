@@ -97,3 +97,5 @@
 ```The real problem with throwaway code comes when it isn't thrown away.```
 
 ```I think you should always bear in mind that entropy is not on your side.```
+
+```The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.```
