@@ -103,3 +103,5 @@
 ```Within C++, there is a much smaller and cleaner language struggling to get out.```
 
 ```I don't comment on the code itself because I feel that properly written code is very much self-documented.```
+
+```Compatibility means deliberately repeating other people’s mistakes.```
