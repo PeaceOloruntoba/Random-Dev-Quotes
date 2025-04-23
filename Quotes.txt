@@ -107,3 +107,5 @@
 ```Compatibility means deliberately repeating other people’s mistakes.```
 
 ```When in doubt, use brute force.```
+
+```A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.```
