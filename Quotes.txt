@@ -178,3 +178,6 @@
 ```Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.```
 
 ```Science is what we understand well enough to explain to a computer. Art is everything else we do.``` - Donald Knuth
+
+```It is not the task of the University to offer what society asks for, but to give what society needs.``` - Edsger W. Dijkstra
+
