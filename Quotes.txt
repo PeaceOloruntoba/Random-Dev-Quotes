@@ -115,3 +115,9 @@
 ```A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.```
 
 ```Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.```
+
+```I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.```
+
+```Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.```
+
+```The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.```
