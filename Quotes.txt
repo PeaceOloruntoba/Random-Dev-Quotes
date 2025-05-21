@@ -121,3 +121,5 @@
 ```Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.```
 
 ```The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.```
+
+```The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.```
