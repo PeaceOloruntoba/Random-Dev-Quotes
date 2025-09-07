@@ -136,3 +136,6 @@
 ```When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.```
 
 ```I'm interested in creating images that communicate with people.```
+
+```Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+```
