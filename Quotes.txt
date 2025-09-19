@@ -139,3 +139,5 @@
 
 ```Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 ```
+
+```Adding manpower to a late software project makes it later.```
