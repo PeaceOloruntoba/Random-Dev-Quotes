@@ -148,4 +148,4 @@
 
 ```A number of studies have shown testing not very effective at finding bugs.```
 
-
+```We need to be super careful with AI. Potentially more dangerous than nukes.```
