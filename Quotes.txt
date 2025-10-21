@@ -145,3 +145,7 @@
 ```Adding manpower to a late software project makes it later.```
 
 ```We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.```
+
+```A number of studies have shown testing not very effective at finding bugs.```
+
+
