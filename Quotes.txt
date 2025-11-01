@@ -124,6 +124,7 @@
 
 ```The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.```
 
+
 ```Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.```
 
 ```Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.```
@@ -138,7 +139,8 @@
 
 ```Your most unhappy customers are your greatest source of learning```
 
-```Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.```
+```Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+```
 
 ```Adding manpower to a late software project makes it later.```
 
@@ -151,3 +153,4 @@
 ```I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.```
 
 ```within a computer, natural language is unnatural```
+
