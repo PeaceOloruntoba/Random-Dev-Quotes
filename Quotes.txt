@@ -160,3 +160,5 @@
 
 ```There's nothing more permanent than a temporary hack```
 
+```What one programmer can do in one month, two programmers can do in two months.```
+
