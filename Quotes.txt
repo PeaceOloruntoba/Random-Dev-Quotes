@@ -163,3 +163,5 @@
 ```What one programmer can do in one month, two programmers can do in two months.```
 
 ```The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.```
+
+```The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.```
