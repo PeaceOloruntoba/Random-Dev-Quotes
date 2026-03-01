@@ -219,6 +219,8 @@
 
 ```A number of studies have shown testing not very effective at finding bugs.```
 
+```Bad programmers worry about the code. Good programmers worry about data structures and their relationships.```
+
 ```Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.```
 
 ```Beware of bugs in the above code; I have only proved it correct, not tried it.```
