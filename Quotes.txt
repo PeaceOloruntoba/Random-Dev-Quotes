@@ -182,3 +182,6 @@
 ```It is not the task of the University to offer what society asks for, but to give what society needs.``` - Edsger W. Dijkstra
 
 ```What I cannot build, I do not understand```
+
+```One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.```
+
