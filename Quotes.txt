@@ -10,6 +10,8 @@
 
 ```Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.```
 
+```Absorb what is useful, discard what is not, add what is uniquely your own.```
+
 ```If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.```
 
 ```The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.```
