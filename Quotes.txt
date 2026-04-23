@@ -185,3 +185,5 @@
 
 ```One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.```
 
+```Whenever logical processes of thought are employed, there is an opportunity for the machine.```
+
