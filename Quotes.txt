@@ -188,3 +188,5 @@
 ```Whenever logical processes of thought are employed, there is an opportunity for the machine.```
 
 ```Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.```
+
+```Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.```
