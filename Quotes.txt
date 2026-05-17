@@ -192,3 +192,5 @@
 ```Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.```
 
 ```Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.```
+
+```Object-oriented design is the roman numerals of computing.```
