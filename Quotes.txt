@@ -196,3 +196,5 @@
 ```Object-oriented design is the roman numerals of computing.```
 
 ```I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.```
+
+```What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.```
