@@ -200,3 +200,5 @@
 ```What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.```
 
 ```Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.```
+
+```Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.```
