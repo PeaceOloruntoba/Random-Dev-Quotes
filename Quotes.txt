@@ -204,3 +204,5 @@
 ```Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.```
 
 ```Good Software like good wine takes time```
+
+```Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.```
