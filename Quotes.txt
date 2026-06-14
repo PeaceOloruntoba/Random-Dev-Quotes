@@ -206,3 +206,6 @@
 ```Good Software like good wine takes time```
 
 ```Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.```
+
+```Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.```
+
