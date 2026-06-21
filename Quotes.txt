@@ -210,3 +210,5 @@
 ```Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.```
 
 ```No matter how slow you are writing clean code, you will always be slower if you make a mess.```
+
+```When we don't understand a process, we fall into magical thinking about results.```
