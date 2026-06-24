@@ -214,3 +214,5 @@
 ```When we don't understand a process, we fall into magical thinking about results.```
 
 ```Talk is cheap, show me the code.```
+
+```A number of studies have shown testing not very effective at finding bugs.```
