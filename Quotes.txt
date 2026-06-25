@@ -216,3 +216,5 @@
 ```Talk is cheap, show me the code.```
 
 ```A number of studies have shown testing not very effective at finding bugs.```
+
+```Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.```
