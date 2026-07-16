@@ -242,3 +242,6 @@
 ```One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.```
 
 ```Any sufficiently advanced technology is indistinguishable from magic.```
+
+```If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.```
+
