@@ -246,3 +246,5 @@
 ```If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.```
 
 ```A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.```
+
+```In man-machine symbiosis, it is man who must adjust: The machines can't.```
