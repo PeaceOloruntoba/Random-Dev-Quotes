@@ -216,6 +216,7 @@
 ```Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.```
 
 ```Walking on water and developing software from a specification are easy if both are frozen.```
+
 ```Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.```
 
 ```Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.```
@@ -258,3 +259,5 @@
 ```Once the computers got control, we might never get it back.```
 
 ```Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.```
+
+```The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.```
