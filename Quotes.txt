@@ -262,5 +262,6 @@
 
 ```The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.```
 
-
 ```The best way to know that you have found the last bug is never to find the first bug```
+
+```LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.```
