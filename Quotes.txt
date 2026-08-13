@@ -270,3 +270,5 @@
 
 ```There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 ```
+
+```To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.```
