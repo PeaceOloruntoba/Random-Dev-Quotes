@@ -40,7 +40,7 @@
 
 ```Machines as simple as thermostats can be said to have beliefs.```
 
-```A language that doesn’t have everything is actually easier to program in than some that do.```
+```A language that doesn’t have everything is actually easier to program in than some that do.``` - Dennis Ritchie
 
 ```Perfection is not attainable, but if we chase perfection we can catch excellence.```
 
