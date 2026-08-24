@@ -276,3 +276,5 @@
 ```An infinite number of monkeys typing into GNU Emacs would never make a good program.```
 
 ```In my second year in graduate school, I took a computer course and that was like lightening striking.```
+
+```I think one of the most valuable rules is avoid duplication.```
