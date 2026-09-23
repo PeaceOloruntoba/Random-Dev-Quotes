@@ -280,3 +280,5 @@
 ```I think one of the most valuable rules is avoid duplication.```
 
 ```Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.```
+
+```How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?```
