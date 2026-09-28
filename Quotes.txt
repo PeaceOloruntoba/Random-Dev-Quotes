@@ -284,3 +284,5 @@
 ```How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?```
 
 ```Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.```
+
+```I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.```
