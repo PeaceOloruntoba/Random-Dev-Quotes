@@ -286,3 +286,5 @@
 ```Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.```
 
 ```I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.```
+
+```Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.```
